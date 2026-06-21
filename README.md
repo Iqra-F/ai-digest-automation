@@ -8,7 +8,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git clone https://github.com/Iqra-F/ai-digest-automation.git
 cd ai-digest-automation
 
 # Create and activate a virtual environment
