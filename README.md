@@ -9,7 +9,7 @@
 ```bash
 # Clone the repo
 git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+cd ai-digest-automation
 
 # Create and activate a virtual environment
 python -m venv venv
